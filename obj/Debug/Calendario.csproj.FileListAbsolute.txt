@@ -1,0 +1,48 @@
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\ngUICalender.dll.config
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\ngUICalender.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\ngUICalender.pdb
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\EntityFramework.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Helpers.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Mvc.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Razor.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\EntityFramework.xml
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Razor.xml
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.xml
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Helpers.xml
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Mvc.xml
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\obj\Debug\Calendario.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\obj\Debug\Calendario.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\obj\Debug\ngUICalender.dll
+C:\Users\Lucas\Downloads\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\obj\Debug\ngUICalender.pdb
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\ngUICalender.dll.config
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\ngUICalender.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\ngUICalender.pdb
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\EntityFramework.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\EntityFramework.SqlServer.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Helpers.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Mvc.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Razor.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.Razor.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\EntityFramework.xml
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\EntityFramework.SqlServer.xml
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Razor.xml
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.xml
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Webpages.Razor.xml
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Helpers.xml
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\bin\System.Web.Mvc.xml
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\obj\Debug\Calendario.csprojResolveAssemblyReference.cache
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\obj\Debug\Calendario.csproj.CoreCompileInputs.cache
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\obj\Debug\ngUICalender.dll
+C:\Users\Public\Videos\Sample Videos\voo\ngUICalenderCRUD\ngUICalender - Cópia\Calendario\obj\Debug\ngUICalender.pdb
